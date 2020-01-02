@@ -10,5 +10,5 @@ Install the following libraries and modules
 2. pyaudio
 3. google-cloud-speech
 
- Get your personal API authentication key by making an account from https://developers.google.com/ from the cloud Speech to Text API. In main.py, put the file location of your json file as the value of credentials. 
+ Get your personal API authentication key by making an account from https://developers.google.com/ from the cloud Speech to Text API. In main.py, put the file location of your json file as the value of the 'credentials' variable.
  
