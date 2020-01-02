@@ -266,7 +266,7 @@ def main():
     sys.stdout.write("Begin By Saying Search File to Find a New File")
     sys.stdout.write('=====================================================\n')
 
-    defaultPath = r"C:\Users\tomti\TOMTIAN\tom work\Grade 12\English\English Digonostic.docx"
+    defaultPath = r"C:\Users\" #Enter Your Starting Path Here for Easier Usage
 
     documentObject = NewProjectDocument(defaultPath)
 
