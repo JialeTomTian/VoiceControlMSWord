@@ -3,8 +3,7 @@ import re
 import sys
 import os
 
-credential_path = r"C:\Users\tomti\TOMTIAN\tom work\Projects\word-voice-project\Voice-Document-Typer-057115698662.json"
-os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = credential_path
+#credential_path = Insert You Own Credential Path Here = credential_path
 # uses result_end_time currently only avaialble in v1p1beta, will be in v1 soon
 from google.cloud import speech_v1 as speech
 import pyaudio
